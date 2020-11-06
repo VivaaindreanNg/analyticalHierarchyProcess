@@ -3,7 +3,7 @@ Implementing AHP (Analytical Hierarchy Process) in recommending restaurants to c
 
 Here's how it goes: 
 
-* Client choose preferences based on restaurant's features or attributes (prioritize cleanliness? Or prioritize cheaper price?) Do so by 
+* Client choose preferences based on restaurant's features or attributes (prioritize cleanliness? Or prioritize restaurant's service/portion size?) Do so by 
   heading over to Postman and submit a POST request body (with application/json) that specify which restaurant's attribute to prioritize 
   (9 - highest priority, 1 - lowest priority):
 
